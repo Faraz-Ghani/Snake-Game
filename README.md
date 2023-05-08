@@ -2,6 +2,8 @@
 This Repo contins the code and build for the game "Snake Game" created as a challenge for Game Hack Week '23 Hosted by Major League Hacking.
 ## Where can i play this game?
 [Play](https://faraz-ghani.itch.io/snake)
+Or
+[Play Now](https://faraz-ghani.github.io/SnakeGame/)
 ## Inspiration
 Nokia Snake Game is the main inspiration for this project.
 ## What it does
